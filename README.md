@@ -8,7 +8,7 @@ Currently focused on building my skills in **Data Analysis** using industry-rele
 
 ## 🚀 About Me
 - 🎓 Final year B.Sc. Computer Science student  
-- 📊 Aspiring Data Analyst with a strong interest in business insights  
+- 📊 Aspiring Data Analyst with a strong interest in Make Useful insights  
 - 📚 Currently learning and practicing **SQL, Excel, Power BI, and Python**  
 - 📈 Enjoy creating dashboards that tell stories with data  
 - 💬 Always eager to collaborate and learn from real-world projects
