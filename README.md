@@ -18,7 +18,7 @@ Currently focused on building my skills in **Data Analysis** using industry-rele
 ## 📫 How to Reach Me
 - Email: [sathishkumar63800@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/sathees-kumar-k-23b3aa354]
-- Resume: [Link to your resume]()
+- Resume: [https://drive.google.com/file/d/15a7xnOlILNut9xfPqGb4J7Q2rmx_lu7S/view?usp=drive_link]
 
 ---
 
