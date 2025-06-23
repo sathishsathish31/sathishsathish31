@@ -29,7 +29,8 @@ Currently, I’m focused on improving my skills through practical, industry-rele
   <h3>Tools & Technologies I Use</h3>
 
   <!-- Power BI -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-power-bi-3521586-2945039.png" alt="Power BI" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Power BI" width="50" />
+
 
   <!-- Excel -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="50" />
