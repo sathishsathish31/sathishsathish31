@@ -19,7 +19,7 @@ Currently, I’m focused on improving my skills through practical, industry-rele
 ## 📫 How to Reach Me
 - Email: [sathishkumar63800@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/sathees-kumar-k-23b3aa354]
-- Resume:[https://drive.google.com/file/d/1ZejCNq449HlMLXxADBi9nIl7VCXaHqsx/view?usp=drive_link]
+- Resume:[https://drive.google.com/file/d/1_naCX1SmSFakIIvhWD35ldCm4wQFJdv0/view?usp=drive_link]
 
 ---
 
