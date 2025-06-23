@@ -1,5 +1,5 @@
 # Hi there, I'm Sathees kumar! 👋  
-**Aspiring Data Analyst | B.Sc. Computer Science Student**  
+**Aspiring Data Analyst| Machine Learning | HTML,CSS,Django | B.Sc. Computer Science Student**  
 
 I'm passionate about turning raw data into meaningful insights.  
 Currently focused on building my skills in **Data Analysis** using industry-relevant tools and projects.
@@ -18,7 +18,7 @@ Currently focused on building my skills in **Data Analysis** using industry-rele
 ## 📫 How to Reach Me
 - Email: [sathishkumar63800@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/sathees-kumar-k-23b3aa354]
-- Resume:[https://drive.google.com/drive/folders/16EGLRb6o4JhIty0c9rtT29_YTGJl3zBy]
+- Resume:[https://drive.google.com/file/d/1ZejCNq449HlMLXxADBi9nIl7VCXaHqsx/view?usp=drive_link]
 
 ---
 
