@@ -25,16 +25,34 @@ Currently, I’m focused on improving my skills through practical, industry-rele
 
 ## 🛠️ Tools and Technologies I Use
 
-<p>
-  <img src="images/powerbi.png" alt="Power BI" width="50" />
-  <img src="images/excel.png" alt="Excel" width="50" />
-  <img src="images/python.png" alt="Python" width="50" />
-  <img src="images/sql.png" alt="SQL" width="50" />
-  <img src="images/html.png" alt="HTML" width="50" />
-  <img src="images/css.png" alt="CSS" width="50" />
-  <img src="images/django.png" alt="Django" width="50" />
-  <img src="images/machinelearning.png" alt="Machine Learning" width="50" />
-</p>
+<div class="tech-stack">
+  <h3>Tools & Technologies I Use</h3>
+
+  <!-- Power BI -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-power-bi-3521586-2945039.png" alt="Power BI" width="50" />
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="50" />
+
+  <!-- Python -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="50" />
+
+  <!-- SQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL" width="50" />
+
+  <!-- HTML -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="50" />
+
+  <!-- CSS -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" />
+
+  <!-- Django -->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-13-1175187.png" alt="Django" width="50" />
+
+  <!-- Machine Learning -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png" alt="Machine Learning" width="50" />
+
+</div>
 
 ---
 
