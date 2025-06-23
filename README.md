@@ -18,7 +18,7 @@ Currently focused on building my skills in **Data Analysis** using industry-rele
 ## 📫 How to Reach Me
 - Email: [sathishkumar63800@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/sathees-kumar-k-23b3aa354]
-- Resume: [https://drive.google.com/file/d/1uUwOowMX0Z83WvSl69iYGIFQG6ZGbHeO/view?usp=drive_link]
+- Resume: [https://drive.google.com/drive/folders/16EGLRb6o4JhIty0c9rtT29_YTGJl3zBy]
 
 ---
 
@@ -34,8 +34,9 @@ Currently focused on building my skills in **Data Analysis** using industry-rele
 ---
 
 ## 📂 Projects
-- Explore my repositories to see hands-on data analysis and dashboard projects  
+- Explore my repositories to see hands-on data analysis and dashboard and ML-Django   based projects  
 - [https://github.com/sathishsathish31/HR-Analytics-Dashboard]
+- [https://github.com/sathishsathish31/Diabetes-Prediction_ML]
 
 ---
 
